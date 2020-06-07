@@ -1,2 +1,2 @@
-# ProjectEuclid
+# ProjectEuler
 https://projecteuler.net/
